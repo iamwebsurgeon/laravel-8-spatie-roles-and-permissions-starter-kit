@@ -1,0 +1,2 @@
+# laravel-8-spatie-roles-and-permissions-starter-kit
+laravel-8-spatie-roles-and-permissions-starter-kit If you are looking for ready to use multiple roles and permissions system, then you are at the right place. Follow the simple steps.  Simple download the repository Make a database with the name of your choice Change database name in the .env file according to your database name run php artisan migrate command run php artisan serve You can skip step 4 and import the provided database. Hope you like it and best of luck for your new project.
